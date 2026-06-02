@@ -34,6 +34,9 @@ I enjoy building applications, learning new tools, and improving my skills one s
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devika-2006&theme=tokyonight)
+# 📊 GitHub Stats
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devika-2006&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devika-2006&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devika-2006&theme=tokyonight"/>
+</p>
