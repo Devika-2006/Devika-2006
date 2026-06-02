@@ -36,10 +36,6 @@ I enjoy building applications, learning new tools, and improving my skills one s
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devika-2006&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devika-2006&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-2006&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Devika-2006&theme=github_dark)
