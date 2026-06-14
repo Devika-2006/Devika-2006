@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="42%" align="right" valign="middle">
-      <img src="./developer.png" width="300" alt="Developer Illustration" />
+      <img src="https://raw.githubusercontent.com/Devika-2006/Devika-2006/main/developer.png" width="300" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
