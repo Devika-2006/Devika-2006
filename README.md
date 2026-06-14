@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="42%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/play.gif" width="300" alt="Developer Illustration" />
+      <img src="./developer.png" width="300" alt="Developer Illustration" />
     </td>
   </tr>
 </table>
@@ -78,11 +78,6 @@
 ---
 
 ## 📊 Developer Dashboard & Analytics
-
-<!-- Row 0: GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devika-2006&theme=tokyonight&no-bg=true&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 <!-- Row 1: Borderless Stats & Languages Donut -->
 <p align="center">
