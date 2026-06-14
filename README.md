@@ -15,24 +15,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139b6da5e293.gif" alt="Spacer" width="100%">
 </p>
 
-<!-- Double-Column Profile Section -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="58%" valign="top">
-      <h2>💫 About Me</h2>
-      <p>👋 Hi there! I'm <b>Devika</b>, a Computer Science & Data Analytics student dedicated to software engineering, data science, and exploring new horizons.</p>
-      <p>💡 I love building scalable applications, extracting meaningful insights from complex datasets, and mastering new technologies. Every project is an opportunity to learn, solve real-world problems, and grow as a developer.</p>
-      <ul>
-        <li>🎓 Pursuing B.Sc in Computer Science with Data Analytics.</li>
-        <li>🌱 Currently diving deep into Machine Learning and Advanced Web Systems.</li>
-        <li>⚡ Fun fact: I love finding patterns in messy data and turning them into visual stories!</li>
-      </ul>
-    </td>
-    <td width="42%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/Devika-2006/Devika-2006/main/developer.png" width="300" alt="Developer Illustration" />
-    </td>
-  </tr>
-</table>
+## 💫 About Me
+
+👋 Hi there! I'm **Devika**, a Computer Science & Data Analytics student dedicated to software engineering, data science, and exploring new horizons.
+
+💡 I love building scalable applications, extracting meaningful insights from complex datasets, and mastering new technologies. Every project is an opportunity to learn, solve real-world problems, and grow as a developer.
+
+* 🎓 **Education:** Pursuing B.Sc in Computer Science with Data Analytics.
+* 🌱 **Current Focus:** Diving deep into Machine Learning and Advanced Web Systems.
+* ⚡ **Fun Fact:** I love finding patterns in messy data and turning them into visual stories!
 
 <br/>
 
