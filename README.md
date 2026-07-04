@@ -70,12 +70,6 @@
 
 ## 📊 Developer Dashboard & Analytics
 
-<!-- Row 1: Borderless Stats & Languages Donut -->
-<p align="center">
-  <img height="210px" src="https://github-readme-stats.vercel.app/api?username=Devika-2006&show_icons=true&title_color=9D4EED&icon_color=00F5FF&text_color=a9b1d6&bg_color=0d111c&hide_border=true" alt="GitHub Stats" />
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika-2006&layout=donut&title_color=9D4EED&icon_color=00F5FF&text_color=a9b1d6&bg_color=0d111c&hide_border=true" alt="Top Languages" />
-</p>
-
 <!-- Row 2: Borderless Streak Card -->
 <p align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Devika-2006&theme=tokyonight&background=0d111c&ring=00F5FF&fire=9D4EED&currStreakNum=00F5FF&currStreakLabel=a9b1d6&sideNums=9D4EED&sideLabels=a9b1d6&dates=a9b1d6&hide_border=true" alt="GitHub Streak" />
